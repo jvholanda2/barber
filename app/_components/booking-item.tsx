@@ -1,7 +1,6 @@
-import { Card } from "./card";
-import { Badge } from "./badge";
-import Image from "next/image";
-import { Avatar, AvatarImage } from "./avatar";
+import { Card } from "./ui/card";
+import { Badge } from "./ui/badge";
+import { Avatar, AvatarImage } from "./ui/avatar";
 
 interface BookingItemProps {
   serviceName: string;
