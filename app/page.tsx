@@ -1,5 +1,5 @@
 import Header from "./_components/header";
-import SearchInput from "./_components/search-inputs";
+import SearchInput from "./_components/search-input";
 import Image from "next/image";
 import banner from "../public/banner.png";
 import BookingItem from "./_components/booking-item";
